@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.about > img {
+    width: 10%;
+    height: 10%;
+}
