@@ -14,3 +14,5 @@ From there you can read a little about me and how I got into coding, view my pas
 ![screenshot2](assets/images/screensnip2.PNG)
 
 ## Link
+
+https://provostma21.github.io/chal2_portfolio/
