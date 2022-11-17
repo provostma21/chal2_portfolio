@@ -20,11 +20,17 @@ nav > ul {
     flex-direction: row;
     justify-content: center;
     background-color: var(--purple);
+    border-radius: 5px;
+    
 }
 
 nav > ul > li {
     margin: 10px;
+    padding: 10px;
     color: white;
+    border-style: groove;
+    border-color: black;
+    border-radius: 5px;
     
 }
 body {
@@ -46,6 +52,7 @@ section > h2 {
 .about > img {
     width: 10%;
     height: 10%;
+    border-radius: 25px;
 }
 
 .contact > ul {
@@ -59,9 +66,11 @@ section > h2 {
 
 .contact > ul > li {
     margin: 10px;
+    padding: 10px;
     border-style: groove;
     border-color: black;
     color: white;
+    border-radius: 5px;
 }
 
 .Prework > img {
